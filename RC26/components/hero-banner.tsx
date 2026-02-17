@@ -32,7 +32,7 @@ export function HeroBanner() {
           <Trophy className="h-8 w-8 text-primary-foreground" />
         </div>
         <h1 className="text-balance text-4xl font-bold tracking-tight text-foreground md:text-5xl">
-          Hackshot Arena
+          RC26
         </h1>
         <p className="mt-2 text-lg text-primary">Ramadan Tournament</p>
         <p className="mt-4 text-pretty text-sm text-muted-foreground md:text-base">
